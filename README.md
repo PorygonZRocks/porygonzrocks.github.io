@@ -1,2 +1,1 @@
-# porygonzrocks.github.io
-My site
+Currently empty. Maybe I'll add stuf soon?
